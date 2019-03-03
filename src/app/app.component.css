@@ -1,0 +1,51 @@
+#rootPageHead {
+        height: 100px;
+       
+        width: 100%;
+ 
+}
+
+#title {
+    font-size: 30px;
+    position: relative;
+    top:10px;
+}
+
+#rootPageHeadFirstCol {
+    text-align: center;
+}
+
+#rootPageHeadSecondCol {
+    text-align: center;    
+}
+
+.list {
+    text-align: left;
+}
+
+#nav {
+    height: 50px;
+    position: relative;
+    top: 30px;
+
+}
+
+.link {
+    color: black;
+    padding-left: 10px;
+}
+
+#search-box {
+    position: relative;
+    top: 15px;
+}
+
+#search {
+    height: 50px;
+    position: relative;
+}
+
+#btrow { 
+    height: 50px;
+    
+}
